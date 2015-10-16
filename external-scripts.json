@@ -9,12 +9,5 @@
   "hubot-redis-brain",
   "hubot-rules",
   "hubot-shipit",
-  "hubot-youtube",
-  "hubot-thesimpsons",
-  "hubot-thank-you",
-  "hubot-victory",
-  "hubot-cute-me",
-  "hubot-seriouslyguys",
-  "hubot-dogeme"
   "hubot-youtube"
 ]
