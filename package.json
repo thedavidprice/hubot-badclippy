@@ -6,6 +6,7 @@
   "description": "A clone of a clone. Attitude leveled up.",
   "dependencies": {
     "hubot": "^2.16.0",
+    "hubot-business-cat": "^1.3.0",
     "hubot-diagnostics": "0.0.1",
     "hubot-google-images": "^0.2.2",
     "hubot-google-translate": "^0.2.0",
