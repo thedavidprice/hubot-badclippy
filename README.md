@@ -12,7 +12,7 @@ has, etc!
 [hubot]: http://hubot.github.com
 [generator-hubot]: https://github.com/github/generator-hubot
 
-### Running badclippy Locally
+### Running BadClippy Locally
 
 You can test your hubot by running the following, however some plugins will not
 behave as expected unless the [environment variables](#configuration) they rely
